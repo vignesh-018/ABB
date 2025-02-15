@@ -11,3 +11,4 @@ Feature Branches: Feature branches are created for each new feature or bug fix. 
 5. The pull request is reviewed.
 6. After review, the pull request is merged into develop.
 7. Periodically, the develop branch is merged into "main" for releases.
+![image](https://github.com/user-attachments/assets/be6ce292-187b-4e98-843b-765823d24100) - screens shot of the branches ans also i edited this line in feature branch.
